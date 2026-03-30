@@ -1,53 +1,41 @@
-ShieldBlock Custom License
+ShieldBlock Custom License / Benutzerdefinierte Lizenz
 Copyright (c) 2026 ShieldBlock
 
 =======================================================
-  NUTZUNGSBEDINGUNGEN / TERMS OF USE
+  🇩🇪 NUTZUNGSBEDINGUNGEN
 =======================================================
-
-DIESE SOFTWARE WIRD UNTER FOLGENDEN BEDINGUNGEN BEREITGESTELLT:
 
 1. KOSTENLOSE NUTZUNG
    Die Software darf von jeder natürlichen Person kostenlos
    heruntergeladen, installiert und für persönliche, nicht-
    kommerzielle Zwecke genutzt werden.
 
-2. KEINE BEARBEITUNG / NO MODIFICATIONS
+2. KEINE BEARBEITUNG
    Der Quellcode dieser Software darf NICHT verändert, modifiziert,
    angepasst, übersetzt oder auf andere Weise bearbeitet werden.
-   Die Erstellung abgeleiteter Werke (Derivative Works) ist
-   ausdrücklich untersagt.
+   Die Erstellung abgeleiteter Werke ist ausdrücklich untersagt.
 
-3. KEIN WEITERVERKAUF / NO RESALE
+3. KEIN WEITERVERKAUF
    Der Verkauf, Weiterverkauf, die kommerzielle Lizenzierung oder
-   die kommerzielle Verbreitung dieser Software – weder in
-   Original- noch in veränderter Form – ist strengstens untersagt.
-   Dies gilt auch für den Verkauf als Teil eines Software-Bundles,
-   einer Dienstleistung oder eines Produkts.
+   die kommerzielle Verbreitung dieser Software ist strengstens
+   untersagt. Dies gilt auch für den Verkauf als Teil eines
+   Software-Bundles, einer Dienstleistung oder eines Produkts.
 
-4. VERBREITUNG / DISTRIBUTION
+4. VERBREITUNG
    Die Software darf kostenlos weitergegeben werden, solange:
    a) Alle Original-Dateien unverändert enthalten sind
    b) Diese Lizenzdatei unverändert beigefügt ist
    c) Kein Entgelt oder Gegenleistung dafür verlangt wird
    d) Der ursprüngliche Urheber genannt wird
 
-5. KEINE GARANTIE / NO WARRANTY
+5. KEINE GARANTIE
    DIESE SOFTWARE WIRD "WIE BESEHEN" ("AS IS") BEREITGESTELLT,
-   OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE,
-   EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF GARANTIEN DER
-   MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND
-   NICHTVERLETZUNG VON RECHTEN DRITTER.
-
-   IN KEINEM FALL HAFTET DER URHEBER FÜR SCHÄDEN JEGLICHER ART,
-   DIE AUS DER NUTZUNG ODER UNMÖGLICHKEIT DER NUTZUNG DIESER
-   SOFTWARE ENTSTEHEN.
+   OHNE JEGLICHE GARANTIE. IN KEINEM FALL HAFTET DER URHEBER
+   FÜR SCHÄDEN JEGLICHER ART.
 
 6. MARKENRECHTE
    Der Name "ShieldBlock" und das zugehörige Logo sind geschützt
    und dürfen nicht ohne schriftliche Genehmigung verwendet werden.
-
-=======================================================
 
 ZUSAMMENFASSUNG:
   ✅ Kostenlose Nutzung für jeden erlaubt
@@ -55,6 +43,51 @@ ZUSAMMENFASSUNG:
   ❌ Verändern des Codes ist NICHT erlaubt
   ❌ Verkaufen oder kommerziell nutzen ist NICHT erlaubt
 
+
+=======================================================
+  🇬🇧 TERMS OF USE (English)
 =======================================================
 
-Bei Fragen zur Lizenz kontaktiere den Urheber über GitHub.
+1. FREE USE
+   This software may be downloaded, installed and used for
+   personal, non-commercial purposes by any individual, free
+   of charge.
+
+2. NO MODIFICATIONS
+   The source code of this software may NOT be altered, modified,
+   adapted, translated or otherwise changed. The creation of
+   derivative works is expressly prohibited.
+
+3. NO RESALE
+   The sale, resale, commercial licensing or commercial
+   distribution of this software is strictly prohibited. This
+   also applies to selling it as part of a software bundle,
+   service or product.
+
+4. DISTRIBUTION
+   The software may be redistributed free of charge, provided:
+   a) All original files are included unchanged
+   b) This license file is included unchanged
+   c) No fee or consideration is charged
+   d) The original author is credited
+
+5. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES
+   ARISING FROM THE USE OF THIS SOFTWARE.
+
+6. TRADEMARKS
+   The name "ShieldBlock" and associated logo are protected
+   and may not be used without written permission.
+
+SUMMARY:
+  ✅ Free personal use allowed
+  ✅ Free redistribution allowed (with license)
+  ❌ Modifying code is NOT allowed
+  ❌ Selling or commercial use is NOT allowed
+
+
+=======================================================
+
+For license questions, contact the author via GitHub:
+https://github.com/cali72mero/ShieldBlock
