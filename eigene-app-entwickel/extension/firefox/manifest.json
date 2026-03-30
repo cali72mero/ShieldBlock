@@ -1,0 +1,74 @@
+{
+  "manifest_version": 3,
+  "name": "ShieldBlock",
+  "version": "1.0.0",
+  "description": "ShieldBlock – Der datenschutzfreundlichste Werbe- und Tracker-Blocker. Blockiert Werbung auf YouTube, Twitter/X, Reddit und mehr – ohne deine Daten zu sammeln.",
+  "author": "ShieldBlock",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "shieldblock@extension",
+      "strict_min_version": "109.0"
+    }
+  },
+
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "storage"
+  ],
+
+  "host_permissions": [
+    "<all_urls>"
+  ],
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "ShieldBlock – Werbung & Tracker blockieren"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "type": "module"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/cosmetic.js"],
+      "css": ["content/cosmetic.css"],
+      "run_at": "document_idle"
+    }
+  ],
+
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ads",
+        "enabled": true,
+        "path": "rules/ads.json"
+      },
+      {
+        "id": "trackers",
+        "enabled": true,
+        "path": "rules/trackers.json"
+      },
+      {
+        "id": "annoyances",
+        "enabled": true,
+        "path": "rules/annoyances.json"
+      }
+    ]
+  }
+}
